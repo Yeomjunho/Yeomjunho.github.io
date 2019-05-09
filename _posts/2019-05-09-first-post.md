@@ -1,7 +1,7 @@
 ---
-title: "Welcome to GitHub Blog!"
+title: "State관리 라이브러리 (Mobx, Context API, Redux)"
 date: 2019-05-09 15:17:00 -0400
-categories: Jun etc
+categories: react
 ---
 
 요즘 react, redux, mobx, Context API 이런거 보느라.. 휴..
