@@ -13,7 +13,7 @@ categories: Jun etc
 - State관리 라이브러리
   Mobx, Context API, Redux
 
-  [MobX]
+  <h3>[MobX]</h3>
   observer()가 observable 값이 변할 때 컴포넌트의 forceUpdate 를 호출하게 함으로써 자동으로 변화가 화면에 반영됩니다
   생각보다 간단하긴하다
   
@@ -49,7 +49,11 @@ categories: Jun etc
   @inject('BB')
   ```
   
-  [MobX + Decorator]
+  <br/><br/>
+  <hr/>
+  <br/><br/>
+  
+  <h3>[MobX + Decorator]</h3>
   아..
   확실이 편하긴 하다..
   MobX를 사용할거면 Decorator는 무조건이구나..
@@ -118,9 +122,11 @@ categories: Jun etc
   
   * [blog-link3]
   
+  <br/><br/>
+  <hr/>
+  <br/><br/>
   
-  
-  [Context API]
+  <h3>[Context API]</h3>
   생각보다 간단하다
   쓰고싶은 곳에서 import후 <AA></AA> 감싸서 사용하면 데이터 가져와서 사용이 가능하다
   이건좀 간단하긴 하지만 지저분할수도..ㅎㅎ
