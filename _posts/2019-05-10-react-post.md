@@ -1,5 +1,5 @@
 ---
-title: "State관리 라이브러리 (Mobx, Context API, Redux)"
+title: "Babel 7, React()"
 date: 2019-05-10 14:57:00 -0400
 categories: react
 ---
